@@ -1,0 +1,41 @@
+{
+	"color": [
+
+		"blue",
+		"grey",
+		"black",
+		"white",
+		"red",
+		"pink",
+		"green",
+		"multicolour",
+		"orange",
+		"purple",
+		"turquoise",
+		"yellow",
+		"beige",
+		"brown",
+		"gold"
+	
+		
+	],
+	
+	
+	"gender" : [
+		"men",
+		"women",
+		"kids"
+	],
+	"length":[
+		"3_4",
+		"7_8",
+		"full_length",
+		"knee_length"
+	]
+
+
+
+
+
+}
+

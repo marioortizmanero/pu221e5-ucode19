@@ -1,0 +1,6 @@
+apparel
+clothing
+footwear
+shoe
+sneaker
+running shoe
